@@ -7,3 +7,8 @@ This project focuses on forecasting electricity consumption using Time Series mo
 - **ARIMA (AutoRegressive Integrated Moving Average):** Suitable for univariate time series with trend.
 - **SARIMA (Seasonal ARIMA):** Extension of ARIMA to handle seasonality in the data.
 - **LSTM (Long Short-Term Memory):** A recurrent neural network capable of learning long-term dependencies, ideal for sequential data.
+
+
+## Dataset Zipped
+
+- **Before using the streamlit extract it first the dataset
