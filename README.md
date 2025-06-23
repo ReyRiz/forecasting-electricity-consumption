@@ -12,3 +12,7 @@ This project focuses on forecasting electricity consumption using Time Series mo
 ## Dataset Zipped
 
 - **Before using the streamlit extract it first the datase**t
+
+## Problem of Model PKL is too Large 500MB is not supported to use Github
+
+- **Drive Google :** Our 2 Model is will go in this model **https://drive.google.com/drive/folders/1duFekb5U_eGKhQyq7SUspMbDw977y2Us?usp=sharing**
