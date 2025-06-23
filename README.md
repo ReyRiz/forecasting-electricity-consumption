@@ -11,4 +11,4 @@ This project focuses on forecasting electricity consumption using Time Series mo
 
 ## Dataset Zipped
 
-- **Before using the streamlit extract it first the dataset
+- **Before using the streamlit extract it first the datase**t
